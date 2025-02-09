@@ -1,0 +1,7 @@
+google-genai
+langchain
+openai
+langchain-community
+langchain-openai
+gradio
+streamlit
